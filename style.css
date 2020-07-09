@@ -70,3 +70,11 @@ h1 {
     width: 68px;
     height: 70px;
 }
+.card {
+    padding: 20px;
+    box-shadow: 5px 5px 20px lightgrey;
+    border: none;
+}
+.style p {
+    color: white;
+}
